@@ -1,9 +1,9 @@
 class Wareki < Formula
   desc "Converts between Japanese calendar and western calendar"
   homepage "https://github.com/ebc-2in2crc/homebrew-wareki"
-  url "https://github.com/ebc-2in2crc/wareki/releases/download/v1.0.1/wareki_darwin_amd64.zip"
-  version "1.0.1"
-  sha256 "b86a76e1023bba25a16638ef4ba46d8d178bc3853ee9ed9ef640bc1eba78a164"
+  url "https://github.com/ebc-2in2crc/wareki/releases/download/v1.1.0/wareki_darwin_amd64.zip"
+  version "1.1.0"
+  sha256 "db42616a3357008dd6c774656d1518eac5d7f11fbea4e3b66d074ace795ab7b7"
 
   def install
     bin.install "wareki"
